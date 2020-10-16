@@ -1,0 +1,6 @@
+﻿  Note.cpp
+C:\Users\f-abd\source\repos\Note\Note\Note.cpp(78,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Note\Note\Note.cpp(96,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Note\Note\Note.cpp(115,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Note\Note\Note.cpp(158,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Note.vcxproj -> C:\Users\f-abd\source\repos\Note\Debug\Note.exe
